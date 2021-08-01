@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+
 
 
 import mediapipe as mp
@@ -36,13 +36,7 @@ if cv2.waitKey(1)==27 :
     
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
