@@ -1,21 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
 
-get_ipython().system('pip install mediapipe')
 
 
-# In[2]:
-
-
-import mediapipe as mp
-import cv2
-import time
-
-
-# In[6]:
 
 
 import mediapipe as mp
@@ -49,13 +38,7 @@ while True:
         break
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
